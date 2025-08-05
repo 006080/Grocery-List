@@ -1,4 +1,4 @@
-# Grocery Bud 🛒
+# Grocery List 🛒
 
 A simple and clean grocery list app built using **HTML**, **CSS**, and **JavaScript**.
 
